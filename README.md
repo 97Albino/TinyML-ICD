@@ -1,4 +1,4 @@
-# ICCAD TINYML IEGM Training Code, Team ICCL
+# TINYML IEGM Training Code, Team ICCL
 
 ## Requirements
 ```
